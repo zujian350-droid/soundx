@@ -1,3 +1,6 @@
+import Image from 'next/image'
+import TimeMachineIcon from '../icon/时光机.png'
+
 export default function AICapabilities() {
   const capabilities = [
     {
@@ -26,9 +29,18 @@ export default function AICapabilities() {
     <section className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            智能分析能力
-          </h2>
+          <div className="flex items-center justify-center gap-4 mb-4">
+            <Image
+              src={TimeMachineIcon}
+              alt="时光机"
+              width={48}
+              height={48}
+              className="w-12 h-12 object-contain"
+            />
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-900">
+              智能分析能力
+            </h2>
+          </div>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             运用先进的技术，深入分析孩子的成长数据
           </p>

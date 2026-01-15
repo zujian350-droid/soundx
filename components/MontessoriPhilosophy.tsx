@@ -127,7 +127,7 @@ export default function MontessoriPhilosophy() {
           <div className="bg-white/80 backdrop-blur-sm rounded-3xl shadow-xl p-8 md:p-12 border border-gray-100">
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-10 text-base md:text-lg text-center max-w-3xl mx-auto">
-                声绘未来深深植根于蒙台梭利教育理念，我们相信每个孩子都有自己独特的成长节奏和发展路径。
+                声绘未来植根于蒙台梭利教育理念，我们相信每个孩子都有自己独特的成长节奏和发展路径。
                 我们的AI分析系统不是为了评判或比较，而是为了帮助家长更好地理解和支持孩子的自然发展。
               </p>
 

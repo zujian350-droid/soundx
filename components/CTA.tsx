@@ -19,7 +19,7 @@ export default function CTA() {
               了解更多
             </Link>
             <Link
-              href="mailto:contact@shenghui.com"
+              href="mailto:aigc_edu@163.com"
               className="bg-transparent border border-white/70 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-white/10 transition-colors"
             >
               联系我们

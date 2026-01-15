@@ -62,7 +62,7 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold mb-4">联系我们</h3>
             <ul className="space-y-2 text-sm">
-              <li>邮箱: contact@shenghui.com</li>
+              <li>邮箱: aigc_edu@163.com</li>
               <li>微信: Ssn_aigc</li>
               <li>
                 <Link href="#contact" className="hover:text-primary-400 transition-colors">
