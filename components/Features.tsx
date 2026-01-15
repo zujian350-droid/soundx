@@ -19,7 +19,7 @@ export default function Features() {
           <circle cx="13.8" cy="9" r="1" fill="currentColor" opacity="0.8" />
         </svg>
       ),
-      title: '被动录音',
+      title: '被动记录',
       description: 'AI硬件设备自动记录亲子对话，无需手动操作，自然捕捉每一个珍贵瞬间',
     },
     {

@@ -2,7 +2,7 @@ export default function HowItWorks() {
   const steps = [
     {
       number: '01',
-      title: '设备安装',
+      title: '设备启用',
       description: '将AI硬件设备放置在家庭环境中，设备会自动开始被动录音',
     },
     {

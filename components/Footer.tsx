@@ -63,7 +63,7 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4">联系我们</h3>
             <ul className="space-y-2 text-sm">
               <li>邮箱: contact@shenghui.com</li>
-              <li>电话: 400-888-8888</li>
+              <li>微信: Ssn_aigc</li>
               <li>
                 <Link href="#contact" className="hover:text-primary-400 transition-colors">
                   在线咨询
@@ -74,7 +74,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-          <p>&copy; 2024 声绘未来. 保留所有权利.</p>
+          <p>&copy; 2026 声绘未来. 保留所有权利.</p>
         </div>
       </div>
     </footer>

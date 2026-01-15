@@ -38,8 +38,8 @@ export default function HardwareFeatures() {
       ),
     },
     {
-      title: '多语言支持',
-      description: '支持中文、英文等多种语言，适应不同家庭的语言环境',
+      title: '多语系支持',
+      description: '支持普通话、粤语等多种语系，适应不同家庭的语言环境',
       icon: (
         <svg className="w-7 h-7" viewBox="0 0 24 24" fill="none">
           <circle cx="12" cy="12" r="7" stroke="currentColor" strokeWidth="1.7" />

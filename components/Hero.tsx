@@ -43,7 +43,7 @@ export default function Hero() {
             </div>
 
             <p className="mt-4 text-xs md:text-sm text-gray-500">
-              已有 <span className="font-semibold text-primary-600">3000+</span> 个家庭加入，用声音记录独一无二的童年。
+              已有 <span className="font-semibold text-primary-600">100+</span> 个家庭加入，用声音记录独一无二的童年。
             </p>
           </div>
 
