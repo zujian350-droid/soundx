@@ -35,6 +35,11 @@ export default function Footer() {
                   功能特性
                 </Link>
               </li>
+              <li>
+                <a href="#app-download" className="hover:text-primary-400 transition-colors">
+                  下载拾光记 App
+                </a>
+              </li>
             </ul>
           </div>
 
